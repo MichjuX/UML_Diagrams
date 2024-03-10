@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T23:00:21.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" version="23.1.7" etag="pO-2galZjqvPEE7U95TW" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-10T23:09:22.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="-nCMe6RCT888V7DrnMFX" version="23.1.7" type="github">
   <diagram name="Strona-1" id="r3digyjytwxBan-t6y29">
-    <mxGraphModel>
+    <mxGraphModel dx="2220" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-2" value="Dodaj lot" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=none;" edge="1" parent="1" source="HK8GiBR4hAxQkNfhSsfB-3" target="HK8GiBR4hAxQkNfhSsfB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HK8GiBR4hAxQkNfhSsfB-3" target="HK8GiBR4hAxQkNfhSsfB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HK8GiBR4hAxQkNfhSsfB-3" target="HK8GiBR4hAxQkNfhSsfB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-3" value="Użytkownik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-4" value="Dyrekcja" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="HK8GiBR4hAxQkNfhSsfB-5" target="HK8GiBR4hAxQkNfhSsfB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-5" value="Statystyki" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-8" value="Usuń lot" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="150" width="126" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-9" value="Modyfikuj lot" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-10" value="Pracownik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-11" value="Rezerwuj lot" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-12" value="Anuluj rezerwacje" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-15" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="HK8GiBR4hAxQkNfhSsfB-13" target="HK8GiBR4hAxQkNfhSsfB-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-13" value="Kup bilet" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-14" value="Zapłać" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-20" value="Zaplanuj podróż" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-21" value="Zaloguj się" style="ellipse;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-23" value="&amp;lt;&amp;lt;Extend&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HK8GiBR4hAxQkNfhSsfB-22" target="HK8GiBR4hAxQkNfhSsfB-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HK8GiBR4hAxQkNfhSsfB-22" value="Załóż konto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
