@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T23:14:33.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="H7ifiwl_QNvgJWh-T9JI" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-10T23:16:37.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="lSY06jEn4efE75PDeje1" version="23.1.7" type="github">
   <diagram name="Strona-1" id="r3digyjytwxBan-t6y29">
     <mxGraphModel dx="2220" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="409" y="430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HK8GiBR4hAxQkNfhSsfB-8" value="Usuń lot" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="220" width="126" height="80" as="geometry" />
+          <mxGeometry x="406" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HK8GiBR4hAxQkNfhSsfB-9" value="Modyfikuj lot" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="409" y="30" width="120" height="80" as="geometry" />
