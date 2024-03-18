@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T17:56:25.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="dPIXnbWJTdPTVirdBgS2" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T18:06:34.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="EN_YrCqcvHtCZ-RIU4Mk" version="24.0.5" type="github">
   <diagram name="Strona-1" id="fh5TAvCRtC4qOcJ-2T7q">
-    <mxGraphModel dx="1490" dy="2317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1611" dy="2525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,13 +27,13 @@
         </mxCell>
         <mxCell id="5CeIky1JOv600O0GGPSP-6" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="1111.3333333333333" as="sourcePoint" />
+            <mxPoint x="120" y="1350" as="sourcePoint" />
             <mxPoint x="130" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5CeIky1JOv600O0GGPSP-7" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="1111.3333333333333" as="sourcePoint" />
+            <mxPoint x="480" y="1390" as="sourcePoint" />
             <mxPoint x="480" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -81,19 +81,27 @@
         <mxCell id="5CeIky1JOv600O0GGPSP-23" value="Rozpoczęcie przygotowań promu" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="510" y="660" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5CeIky1JOv600O0GGPSP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5CeIky1JOv600O0GGPSP-26" target="5CeIky1JOv600O0GGPSP-29">
+        <mxCell id="5CeIky1JOv600O0GGPSP-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5CeIky1JOv600O0GGPSP-26" target="5CeIky1JOv600O0GGPSP-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="285" y="610" />
-              <mxPoint x="60" y="610" />
+              <mxPoint x="720" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5CeIky1JOv600O0GGPSP-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5CeIky1JOv600O0GGPSP-26" target="5CeIky1JOv600O0GGPSP-31">
+        <mxCell id="5CeIky1JOv600O0GGPSP-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5CeIky1JOv600O0GGPSP-26" target="5CeIky1JOv600O0GGPSP-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="285" y="610" />
-              <mxPoint x="-70" y="610" />
+              <mxPoint x="870" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5CeIky1JOv600O0GGPSP-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5CeIky1JOv600O0GGPSP-26" target="5CeIky1JOv600O0GGPSP-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="610" />
+              <mxPoint x="1000" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -114,13 +122,44 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5CeIky1JOv600O0GGPSP-29" value="Trening pływacki" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry y="660" width="120" height="40" as="geometry" />
+          <mxGeometry x="940" y="660" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5CeIky1JOv600O0GGPSP-31" value="Trening pływacki" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="660" width="120" height="40" as="geometry" />
+          <mxGeometry x="810" y="660" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5CeIky1JOv600O0GGPSP-33" value="Trening pływacki" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-155" y="710" width="120" height="40" as="geometry" />
+        <mxCell id="5CeIky1JOv600O0GGPSP-33" value="Zajęcia z marsjańskieg" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="660" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5CeIky1JOv600O0GGPSP-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5CeIky1JOv600O0GGPSP-36" target="5CeIky1JOv600O0GGPSP-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5CeIky1JOv600O0GGPSP-36" value="Szkolenie BHP" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5CeIky1JOv600O0GGPSP-41" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="770" y="780" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5CeIky1JOv600O0GGPSP-42" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="5CeIky1JOv600O0GGPSP-41" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="845" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5CeIky1JOv600O0GGPSP-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5CeIky1JOv600O0GGPSP-33" target="5CeIky1JOv600O0GGPSP-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5CeIky1JOv600O0GGPSP-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5CeIky1JOv600O0GGPSP-31" target="5CeIky1JOv600O0GGPSP-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5CeIky1JOv600O0GGPSP-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5CeIky1JOv600O0GGPSP-29" target="5CeIky1JOv600O0GGPSP-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="730" />
+              <mxPoint x="882" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5CeIky1JOv600O0GGPSP-46" value="Przeniesienie do ośtodka startowego" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="970" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
