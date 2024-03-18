@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T17:34:18.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="5Pn-rI0_fd1cO0vZ0DkW" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T17:34:54.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="fH_CjFJkPeWZg4cQWpfD" version="24.0.5" type="github">
   <diagram name="Strona-1" id="fh5TAvCRtC4qOcJ-2T7q">
     <mxGraphModel dx="2293" dy="1967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,6 +10,10 @@
         <mxCell id="5CeIky1JOv600O0GGPSP-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="5CeIky1JOv600O0GGPSP-2" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="415" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="416" y="75" />
+              <mxPoint x="416" y="130" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5CeIky1JOv600O0GGPSP-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Centrala&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
