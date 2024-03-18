@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T18:09:57.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="mm-IeHNDzCqhHthcScM2" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T18:13:38.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="yD2LC8uwo3jZ10U8awXc" version="24.0.5" type="github">
   <diagram name="Strona-1" id="fh5TAvCRtC4qOcJ-2T7q">
-    <mxGraphModel dx="1545" dy="2412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2970" dy="2335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,7 +172,7 @@
         <mxCell id="5CeIky1JOv600O0GGPSP-51" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="-230" y="1069" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5CeIky1JOv600O0GGPSP-52" value="[zainteresowany]" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="5CeIky1JOv600O0GGPSP-51" parent="1">
+        <mxCell id="5CeIky1JOv600O0GGPSP-52" value="[zainteresowany]" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="5CeIky1JOv600O0GGPSP-51" parent="1" target="5CeIky1JOv600O0GGPSP-56">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="-50" y="1089" as="targetPoint" />
             <mxPoint as="offset" />
@@ -182,6 +182,9 @@
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="-190" y="1169" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5CeIky1JOv600O0GGPSP-56" value="Pożegnanie z bliskimi" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="1140" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
