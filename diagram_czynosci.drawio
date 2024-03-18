@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T17:45:05.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="hXAq8X8OQ1xY6eH6l-s9" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T17:47:27.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="z09yzl4EeZlvVM_-iaXD" version="24.0.5" type="github">
   <diagram name="Strona-1" id="fh5TAvCRtC4qOcJ-2T7q">
     <mxGraphModel dx="1899" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,9 +46,9 @@
         <mxCell id="5CeIky1JOv600O0GGPSP-11" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="290" y="260" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5CeIky1JOv600O0GGPSP-12" value="else" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="5CeIky1JOv600O0GGPSP-11" parent="1">
+        <mxCell id="5CeIky1JOv600O0GGPSP-12" value="else" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="5CeIky1JOv600O0GGPSP-11" parent="1" target="5CeIky1JOv600O0GGPSP-20">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="470" y="250" as="targetPoint" />
+            <mxPoint x="300" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5CeIky1JOv600O0GGPSP-13" value="[pierwszy raz]" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="5CeIky1JOv600O0GGPSP-11" parent="1" target="5CeIky1JOv600O0GGPSP-17">
@@ -63,8 +63,22 @@
         <mxCell id="5CeIky1JOv600O0GGPSP-15" value="Pobranie gwarancji finansowych" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="270" y="180" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5CeIky1JOv600O0GGPSP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5CeIky1JOv600O0GGPSP-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5CeIky1JOv600O0GGPSP-17" value="Specjalistyczne badanie klienta" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="-30" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5CeIky1JOv600O0GGPSP-18" value="Ustalenie szczegółów lotu" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="225" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5CeIky1JOv600O0GGPSP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5CeIky1JOv600O0GGPSP-20" target="5CeIky1JOv600O0GGPSP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5CeIky1JOv600O0GGPSP-20" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="410" width="110" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
