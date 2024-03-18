@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T22:56:04.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="6E-H3yPUKW5-v-GSo8DG" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T22:56:41.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="pqaH9dJShSOwuHQ0EsUL" version="24.0.7" type="github">
   <diagram name="Strona-1" id="fh5TAvCRtC4qOcJ-2T7q">
-    <mxGraphModel dx="1859" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1171" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -274,12 +274,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HoDOH48BJP-W4IzTHwKc-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HoDOH48BJP-W4IzTHwKc-45">
+        <mxCell id="HoDOH48BJP-W4IzTHwKc-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HoDOH48BJP-W4IzTHwKc-45" target="HoDOH48BJP-W4IzTHwKc-69">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="8.75" y="2050" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-21.25" y="1930" />
-              <mxPoint x="8.75" y="1930" />
+              <mxPoint x="-21" y="1930" />
+              <mxPoint x="9" y="1930" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -336,8 +336,11 @@
         <mxCell id="HoDOH48BJP-W4IzTHwKc-68" value="Start promu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="-216.25" y="2080" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HoDOH48BJP-W4IzTHwKc-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HoDOH48BJP-W4IzTHwKc-69" target="HoDOH48BJP-W4IzTHwKc-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HoDOH48BJP-W4IzTHwKc-69" value="Odwołanie startu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-51.250000000000014" y="2050" width="120" height="30" as="geometry" />
+          <mxGeometry x="-51.250000000000014" y="2080" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HoDOH48BJP-W4IzTHwKc-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.872;entryY=0.407;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HoDOH48BJP-W4IzTHwKc-70" target="HoDOH48BJP-W4IzTHwKc-45">
           <mxGeometry relative="1" as="geometry" />
@@ -463,6 +466,15 @@
               <mxPoint x="-187" y="1960" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HoDOH48BJP-W4IzTHwKc-107" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="2140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HoDOH48BJP-W4IzTHwKc-108" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-8.75" y="2140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HoDOH48BJP-W4IzTHwKc-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.564;entryY=0.185;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HoDOH48BJP-W4IzTHwKc-68" target="HoDOH48BJP-W4IzTHwKc-107">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
