@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T16:14:06.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="HN5VhGGT-zYJWsCW7lfG" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T16:15:17.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="EWNNxHv9La2QB-_UfPWk" version="24.0.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="796" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="961" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -44,9 +44,6 @@
         <mxCell id="EysOObwqPlJZKndIWrqb-9" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="EysOObwqPlJZKndIWrqb-8">
           <mxGeometry y="26" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="EysOObwqPlJZKndIWrqb-10" value="&lt;span style=&quot;font-size: small; text-align: start;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Wprawka B. Opracować model klas (tylko nazwy klas i atrybuty oraz związki pomiędzy klasami wraz z nazwami związków i licznościam) i zapisać go w postaci diagramu klas. Projektujemy system wspomagający pracę firmy fonograficznej zajmującej się przygotowywaniem wydawnictw (płyt i kaset) z muzyką i piosenkami polskich wykonawców. Każdy utwór muzyczny ma autora muzyki oraz może mieć autora słów. Na jednej płycie może się znaleźć maksymalnie 25 utworów. Płyty są najczęściej firmowane przez jednego wykonawcę (zespół, solista, ...), ale firma wydaje również tzw. składanki a także albumy kilkupłytowe (najczęściej 2-płytowe). Możliwa jest również sytuacja gdy utwór jest wykonywany przez kilku wykonawców (np. duet).&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="64" y="50" width="700" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="EysOObwqPlJZKndIWrqb-11" value="Album wielopłytowy&#xa;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="564" y="366" width="160" height="70" as="geometry">
             <mxRectangle x="344" y="240" width="170" height="26" as="alternateBounds" />
@@ -62,12 +59,31 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EysOObwqPlJZKndIWrqb-17" value="Artysta" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="564" y="520" width="160" height="70" as="geometry">
+        <mxCell id="EysOObwqPlJZKndIWrqb-17" value="Autor" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="590" width="160" height="70" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EysOObwqPlJZKndIWrqb-18" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="EysOObwqPlJZKndIWrqb-17">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="EysOObwqPlJZKndIWrqb-10" value="&lt;span style=&quot;font-size: small; text-align: start;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Wprawka B. Opracować model klas (tylko nazwy klas i atrybuty oraz związki pomiędzy klasami wraz z nazwami związków i licznościam) i zapisać go w postaci diagramu klas. Projektujemy system wspomagający pracę firmy fonograficznej zajmującej się przygotowywaniem wydawnictw (płyt i kaset) z muzyką i piosenkami polskich wykonawców. Każdy utwór muzyczny ma autora muzyki oraz może mieć autora słów. Na jednej płycie może się znaleźć maksymalnie 25 utworów. Płyty są najczęściej firmowane przez jednego wykonawcę (zespół, solista, ...), ale firma wydaje również tzw. składanki a także albumy kilkupłytowe (najczęściej 2-płytowe). Możliwa jest również sytuacja gdy utwór jest wykonywany przez kilku wykonawców (np. duet).&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="86" y="840" width="676" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EysOObwqPlJZKndIWrqb-20" value="Autor muzyki" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="700" width="160" height="70" as="geometry">
+            <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EysOObwqPlJZKndIWrqb-21" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="EysOObwqPlJZKndIWrqb-20">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="EysOObwqPlJZKndIWrqb-22" value="Autor tekstu" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="700" width="160" height="70" as="geometry">
+            <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EysOObwqPlJZKndIWrqb-23" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="EysOObwqPlJZKndIWrqb-22">
           <mxGeometry y="26" width="160" height="8" as="geometry" />
         </mxCell>
       </root>
