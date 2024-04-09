@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T20:49:37.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="VNINMAkmrWZOnaSkXmX5" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T20:52:10.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="kMbWE7mmbEb3wdWOEHnz" version="24.2.0" type="github">
   <diagram name="Strona-1" id="DNhIQK610OcryGrWqqYY">
     <mxGraphModel dx="1393" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,11 +27,17 @@
         <mxCell id="FOpxk1YOlKhjQuLyklLP-7" value="nadanie wizy turystycznej" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="240" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FOpxk1YOlKhjQuLyklLP-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FOpxk1YOlKhjQuLyklLP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FOpxk1YOlKhjQuLyklLP-8" target="FOpxk1YOlKhjQuLyklLP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FOpxk1YOlKhjQuLyklLP-8" value="powrócony na ziemie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FOpxk1YOlKhjQuLyklLP-10" value="powrót na ziemie" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="310" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FOpxk1YOlKhjQuLyklLP-11" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="570" y="325" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
