@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T21:26:01.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="GS7rnGeb961WnKNRDpUQ" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T21:27:44.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="zbRPc_12z_59hMV1aOvL" version="24.2.0" type="github">
   <diagram name="Strona-1" id="DNhIQK610OcryGrWqqYY">
     <mxGraphModel dx="2220" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,9 +57,6 @@
         <mxCell id="FOpxk1YOlKhjQuLyklLP-16" value="after(3 miesiące)/nowa_wiza()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="175" y="400" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FOpxk1YOlKhjQuLyklLP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FOpxk1YOlKhjQuLyklLP-17" target="FOpxk1YOlKhjQuLyklLP-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FOpxk1YOlKhjQuLyklLP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FOpxk1YOlKhjQuLyklLP-17" target="FOpxk1YOlKhjQuLyklLP-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -69,17 +66,8 @@
         <mxCell id="FOpxk1YOlKhjQuLyklLP-19" value="after(3 miesiace)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="165" y="540" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FOpxk1YOlKhjQuLyklLP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FOpxk1YOlKhjQuLyklLP-20" target="FOpxk1YOlKhjQuLyklLP-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FOpxk1YOlKhjQuLyklLP-20" value="deportacja" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FOpxk1YOlKhjQuLyklLP-22" value="złapanie imigranta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="690" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FOpxk1YOlKhjQuLyklLP-23" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="175" y="840" width="30" height="30" as="geometry" />
+        <mxCell id="FOpxk1YOlKhjQuLyklLP-22" value="złapanie imigranta/deportacja()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="590" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FOpxk1YOlKhjQuLyklLP-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FOpxk1YOlKhjQuLyklLP-25" target="FOpxk1YOlKhjQuLyklLP-36">
           <mxGeometry relative="1" as="geometry" />
@@ -122,11 +110,20 @@
         <mxCell id="FOpxk1YOlKhjQuLyklLP-45" value="powrót na ziemie" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-320" y="870" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FOpxk1YOlKhjQuLyklLP-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FOpxk1YOlKhjQuLyklLP-46" target="FOpxk1YOlKhjQuLyklLP-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FOpxk1YOlKhjQuLyklLP-46" value="pobyt jako obywatel bez możliwości powrotu na Ziemie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-620" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FOpxk1YOlKhjQuLyklLP-48" value="zrzeczenie sie ziemskiego obywatelwstwa&lt;div&gt;/remove_ziemskie_obywatelstwo()&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-760" y="660" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FOpxk1YOlKhjQuLyklLP-49" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-575" y="850" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FOpxk1YOlKhjQuLyklLP-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.192;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FOpxk1YOlKhjQuLyklLP-17" target="FOpxk1YOlKhjQuLyklLP-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
