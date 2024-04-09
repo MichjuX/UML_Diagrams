@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T21:22:55.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="oCoGKQTZQD_yQsHCJI4K" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T21:23:40.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="WpMb9_tdrAAWBcUvNfRp" version="24.2.0" type="github">
   <diagram name="Strona-1" id="DNhIQK610OcryGrWqqYY">
     <mxGraphModel dx="2220" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,6 +99,14 @@
         <mxCell id="FOpxk1YOlKhjQuLyklLP-35" value="wystąpienie o status uchodźcy [udowodnienie prześladowania] / set_status_uchodzcy()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-140" y="585" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FOpxk1YOlKhjQuLyklLP-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FOpxk1YOlKhjQuLyklLP-36" target="FOpxk1YOlKhjQuLyklLP-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-400" y="900" />
+              <mxPoint x="460" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FOpxk1YOlKhjQuLyklLP-36" value="pobyt jako obywatel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-460" y="570" width="120" height="60" as="geometry" />
         </mxCell>
@@ -107,6 +115,12 @@
         </mxCell>
         <mxCell id="FOpxk1YOlKhjQuLyklLP-41" value="poślubienie rodowitego ufoka/set_obywatelstwo()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-570" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FOpxk1YOlKhjQuLyklLP-43" value="powrócony na ziemie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FOpxk1YOlKhjQuLyklLP-45" value="powrót na ziemie" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="870" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
