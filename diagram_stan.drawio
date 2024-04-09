@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T21:23:40.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="WpMb9_tdrAAWBcUvNfRp" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T21:26:01.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="GS7rnGeb961WnKNRDpUQ" version="24.2.0" type="github">
   <diagram name="Strona-1" id="DNhIQK610OcryGrWqqYY">
     <mxGraphModel dx="2220" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,11 +36,11 @@
         <mxCell id="FOpxk1YOlKhjQuLyklLP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FOpxk1YOlKhjQuLyklLP-8" target="FOpxk1YOlKhjQuLyklLP-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FOpxk1YOlKhjQuLyklLP-8" value="powrócony na ziemie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FOpxk1YOlKhjQuLyklLP-8" value="powrócony na Ziemie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FOpxk1YOlKhjQuLyklLP-10" value="powrót na ziemie" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="310" width="150" height="30" as="geometry" />
+          <mxGeometry x="250" y="310" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FOpxk1YOlKhjQuLyklLP-11" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="570" y="325" width="30" height="30" as="geometry" />
@@ -107,6 +107,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FOpxk1YOlKhjQuLyklLP-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FOpxk1YOlKhjQuLyklLP-36" target="FOpxk1YOlKhjQuLyklLP-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FOpxk1YOlKhjQuLyklLP-36" value="pobyt jako obywatel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-460" y="570" width="120" height="60" as="geometry" />
         </mxCell>
@@ -116,11 +119,14 @@
         <mxCell id="FOpxk1YOlKhjQuLyklLP-41" value="poślubienie rodowitego ufoka/set_obywatelstwo()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-570" y="420" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FOpxk1YOlKhjQuLyklLP-43" value="powrócony na ziemie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="730" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="FOpxk1YOlKhjQuLyklLP-45" value="powrót na ziemie" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-320" y="870" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FOpxk1YOlKhjQuLyklLP-46" value="pobyt jako obywatel bez możliwości powrotu na Ziemie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FOpxk1YOlKhjQuLyklLP-48" value="zrzeczenie sie ziemskiego obywatelwstwa&lt;div&gt;/remove_ziemskie_obywatelstwo()&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="660" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
