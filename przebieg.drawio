@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T21:30:21.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="eX2MsjyupGpV9VORC3p5" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-14T21:30:29.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="3WOGTm6fzzR5ZJnhEnbO" version="24.2.3" type="github">
   <diagram name="Strona-1" id="r81w2q7HeBC1rqVLQ3Sj">
     <mxGraphModel dx="1161" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LGqJWmO-dP1u4PsUasXe-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="259" y="170" width="531" height="380" as="geometry" />
+        </mxCell>
         <mxCell id="LGqJWmO-dP1u4PsUasXe-3" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="80" y="130" width="10" height="770" as="geometry" />
         </mxCell>
@@ -45,9 +48,6 @@
             <mxPoint x="727.5" y="890.5714285714286" as="sourcePoint" />
             <mxPoint x="722.5" y="80" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="LGqJWmO-dP1u4PsUasXe-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="259" y="170" width="531" height="380" as="geometry" />
         </mxCell>
         <mxCell id="LGqJWmO-dP1u4PsUasXe-18" value="Loop" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="170" width="30" height="20" as="geometry" />
