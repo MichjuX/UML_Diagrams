@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T23:29:47.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="FZTAkJzhpu1KD8mGxE1P" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T23:30:24.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition std-1)" etag="eSUhklniNjdfq-32Rgjh" version="24.2.5" type="github">
   <diagram name="Strona-1" id="0XVHCtTMGLhsiArneO4f">
     <mxGraphModel dx="2220" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,7 +213,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JoC4vt0uxFuf1quDbikh-69" value="&amp;lt;&amp;lt;exe&amp;gt;&amp;gt;&lt;br&gt;RozliczenieZuzycia" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="690" width="130" height="50" as="geometry" />
+          <mxGeometry x="520" y="690" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JoC4vt0uxFuf1quDbikh-70" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.85;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="JoC4vt0uxFuf1quDbikh-69" target="JoC4vt0uxFuf1quDbikh-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="620" as="sourcePoint" />
+            <mxPoint x="510" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="705" />
+              <mxPoint x="400" y="550" />
+              <mxPoint x="780" y="550" />
+              <mxPoint x="780" y="351" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
